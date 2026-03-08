@@ -1,0 +1,28 @@
+# .gitignore
+.qodo
+# Ambiente virtual
+.venv/
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+*.pyc
+*.pyo
+
+# Migrações geradas (opcional, depende da sua preferência)
+alembic/versions/
+
+# Banco de dados
+*.db
+
+.Python
+env/
+venv/
+.env
+.DS_Store
+.idea/
+*.log
+coverage/
+*.sqlite3
