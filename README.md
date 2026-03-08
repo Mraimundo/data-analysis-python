@@ -64,8 +64,8 @@ pip install pandas openpyxl nbformat ipykernel plotly
 ### Clonando o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/python-insights-cancelamentos.git
-cd python-insights-cancelamentos
+git clone https://github.com/Mraimundo/data-analysis-python.git
+cd data-analysis
 ```
 
 ### Executando o projeto
